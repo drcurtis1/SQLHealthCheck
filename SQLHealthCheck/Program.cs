@@ -15,7 +15,7 @@ namespace SQLHealthCheck
         private static List<string> _connectionStrings = new List<string>();
         private static string _tempConnection = "Server=localhost;Database=master;User Id=sa;Password=Test123;";
         private static string _baseResultPath = @".\Results\";
-        private static string _baseScriptPath = @".\Scripts\";
+        private static string _baseScriptPath = @".\Scripts\"; //
         static void Main(string[] args)
         {
             var setup = new FileHeaders();

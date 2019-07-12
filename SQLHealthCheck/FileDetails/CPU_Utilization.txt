@@ -1,0 +1,3 @@
+SQL Server Process CPU Utilization,System Idle Process,Other Process CPU Utilization,Event Time
+CPU_Utilization.sql
+CPU_Utilization.csv
